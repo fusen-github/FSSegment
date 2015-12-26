@@ -1,0 +1,2 @@
+# FSSegment
+一个导航条上有segment、每个segmentItem又对应几个标签，每一个标签对应一个控制器的模板
